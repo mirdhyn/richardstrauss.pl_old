@@ -1,0 +1,69 @@
+title: Stowarzyszenie im. Richarda Straussa
+
+home:
+  title: Home
+
+
+news:
+  title: Info
+  articles:
+
+  - title: Stowarzyszenie w Budapeszcie
+    date: 25/05/2015
+    picture: picture.jpg
+    content:
+      - Kolejny projekt Stowarzyszenia im. Richarda Straussa to współpraca z Węgierską Operą Państwową w Budapeszcie, w której 17 maja 2015 miało miejsce wyjątkowe w historii polsko-węgierskich kontaktów operowych wydarzenie: „Faust” Charlesa Gounoda w reżyserii Michała Znanieckiego –  pierwszego Polaka reżyserującego na tej scenie.
+      - Dzięki naszym staraniom premierowy spektakl w stolicy Węgier obejrzało wielu przedstawicieli mediów z Polski i Republiki Czeskiej (m.in. Polskie Radio, „Rzeczpospolita”, „Hudební Rozhledy”, portal OperaPlus oraz portal Maestro), a także kilku członków Stowarzyszenia.
+      - Węgierska Opera Państwowa to jeden z najpiękniejszych teatrów operowych na świecie – neorenesansowy gmach, który uroczyście otwarto w 1884 roku, gościł wielu wybitnych artystów, a jego dyrektorem  był w pewnym okresie także Gustav Mahler.
+      - Premierowe przedstawienie „Fausta” wystawione zostało w stolicy Węgier w ramach Festiwalu Faust225, który w roku 2015 dedykowany jest właśnie motywowi faustowskiemu (Goethe wydał pierwszą wersję swojego dramatu 225 lat temu). Główny temat cyklu wydarzeń: pakt człowieka z diabłem jest realizowany przez pięć oper i specjalny koncert. Prezentowane dzieła sceniczne to – oprócz „Fausta” – „Żywot rozpustnika” Igora Strawińskiego, „Wolny strzelec” Carla Marii von Webera, „Doktor Faust” Ferruccio Benvenuto Busoniego i „Mefistofeles” Arrigo Boito.
+      - W zeszłym roku Opera w Budapeszcie uczciła 150. rocznicę urodzin Richarda Straussa: podczas 18 dni festiwalu wystawiła sześć jego oper i zagrała koncert symfoniczny. W przyszłym roku obchodzić będzie 400. rocznicę śmierci Williama Szekspira – instytucja wystawi opery i balet oparte na sztukach poety, zagra także koncert okolicznościowy.
+      - W Budapeszcie Stowarzyszenie im. Richarda Straussa uczestniczyło również we wspomnianych zeszłorocznych obchodach święta swojego patrona.
+
+  - title: W czeskich mediach
+    date: 22/12/2014
+    picture: czeskich.jpg
+    content:
+      - W grudniowym (2014) numerze prestiżowego czeskiego magazynu „Hudební Rozhledy” znalazła się informacja o działalności Stowarzyszenia im. Richarda Straussa.
+      - Członkowie Stowarzyszenia współpracują z dziennikarzami znad Wełtawy już wiele lat – dzięki naszej działalności w najważniejszych czeskich mediach ukazały się wywiady z polskimi artystami, informacje o ważnych dla kultury polskiej wydarzeniach i recenzje premier operowych.
+
+
+about:
+  title: O Stowarzyszeniu
+  content:
+    - Stowarzyszenie im. Richarda Straussa powstało we Wrocławiu w roku 2014 – jubileuszowym roku 150. rocznicy urodzin wybitnego kompozytora.
+    - Jest to pierwsze i jedyne polskie stowarzyszenie, które statutowo zajmuje się twórczością Richarda Straussa. Jednak nie jest to jedyny cel jego działalności: chcielibyśmy również prezentować dzieła innych współczesnych naszemu patronowi muzyków, którzy – jak sądzimy – zasługują na żywe zainteresowanie polskiej publiczności, a także odkrywać i popularyzować twórczość młodych i nieznanych oraz zapomnianych artystów.
+    - Naszą organizację tworzą ludzie z wieloletnim doświadczeniem w sektorze kultury, mediów i nauki, miłośnicy muzyki, zainteresowani kreowaniem ważnych wydarzeń w imię artystycznej uczciwości
+    - Działalność Stowarzyszenia im. Richarda Straussa wspierają nasi przyjaciele m.in. z Warszawy, Pragi, Wiednia, Berlina, Budapesztu, Rzymu, Londynu i Nowego Jorku.
+
+projects:
+  title: Projekty
+  projects:
+    - title: Wydarzenia specjalne i cykliczne
+      content:
+        - Wsparcie medialne premiery „Fausta” Charlesa Gounoda w Państwowej Operze Węgierskiej
+        - Zaproszenie na praską premierę „Salome”
+        - Współorganizacja wystawy o życiu i twórczości Marceliny Sembrich Kochańskiej
+    - title: Consulting
+      content:
+        - Serdecznie zapraszamy do współpracy wszystkie zainteresowane instytucje kulturalne z Polski i zagranicy.
+        - Uważamy, że potencjał zmiany, jaki niesie ze sobą kultura, jest niedoceniany, a rozwiązania systemowe stosowane są niewystarczające.
+        - Wydarzenia kulturalne są niewłaściwie promowane albo nie są promowane w ogóle, przez co ich odbiór społeczny jest ograniczony.
+        - Wyznajemy zasadę, że pieniędzy w kulturze nie brakuje – są one po prostu źle dystrybuowane.
+        - Gdyby chcieli Państwo zacząć to zmieniać, zapraszamy: czekają na Państwa specjaliści Public i Media Relations, artyści (dyrygenci, śpiewacy, aktorzy, fotograficy) i profesjonaliści od lat zarządzające sferą kultury i sztuki.
+        - <a href="#">Napisz do nas.</a>
+
+
+links:
+  title: Linki
+  sections:
+    - title: Stowarzyszenie im. Richarda Straussa dziękuje za wsparcie partnerom i przyjaciołom
+      links:
+        - desc: ""
+          link: http://www.maestro.net.pl
+        - desc: ""
+          link: http://www.polonia-dresden.de/index.html
+        - desc: ""
+          link: http://www.narodni-divadlo.cz
+        - desc: ""
+          link: http://www.opera.hu
+    - title: Więcej o Richardzie Straussie:
