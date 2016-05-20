@@ -28,35 +28,36 @@ news:
 
 
 about:
-  title: O Stowarzyszeniu
+  title: About us
   content:
-    Stowarzyszenie im. Richarda Straussa powstało we Wrocławiu w roku 2014 – jubileuszowym roku 150. rocznicy urodzin wybitnego kompozytora. 
-    Jest to pierwsze i jedyne polskie stowarzyszenie, które statutowo zajmuje się twórczością Richarda Straussa. Jednak nie jest to jedyny cel jego działalności: chcielibyśmy również prezentować dzieła innych współczesnych naszemu patronowi muzyków, którzy – jak sądzimy – zasługują na żywe zainteresowanie polskiej publiczności, a także odkrywać i popularyzować twórczość młodych i nieznanych oraz zapomnianych artystów.
-    Naszą organizację tworzą ludzie z wieloletnim doświadczeniem w sektorze kultury, mediów i nauki, miłośnicy muzyki, zainteresowani kreowaniem ważnych wydarzeń w imię artystycznej uczciwości
-    Działalność Stowarzyszenia im. Richarda Straussa wspierają nasi przyjaciele m.in. z Warszawy, Pragi, Wiednia, Berlina, Budapesztu, Rzymu, Londynu i Nowego Jorku.
+    - Richard Strauss Society Poland is the first and the only Polish society which shows interests in this composer’s works. It was founded in Wrocław in 2014 – Richard Strauss 150th anniversary. We would also like to present Strauss’ contemporaries – artists who still remain unknown to Polish audience, and discover and make popular the music of young composers and forgotten ones.
+    - The organization consists of people having a rich experience in media, culture and science sector. What is important for us is the artistic honesty.
+    - Richard Strauss Society’s activity is supported by its friends from Vienna, Prague, Berlin, Budapest, Rome, London, New York and Warsaw.
 
 projects:
-  title: Projekty
+  title: Projects
   projects:
-    - title: Wydarzenia specjalne i cykliczne
+    - title: Special and serial events
       content:
-        - Wsparcie medialne premiery „Fausta” Charlesa Gounoda w Państwowej Operze Węgierskiej
-        - Zaproszenie na praską premierę „Salome”
-        - Współorganizacja wystawy o życiu i twórczości Marceliny Sembrich Kochańskiej
+        - Lecture on 'Elektra' (Met HD series) in Teatr Studio Warszawa 
+        - Media support of Charles Gounod’s ‘Faust’ in Hungarian State Opera
+        - Invitation to the premiere ‘Salome’ in Prague
+        - Co-organization of the exhibition about life and works of Marcelina Sembrich Kochańska in Dresden
+
     - title: Consulting
       content:
-        - Serdecznie zapraszamy do współpracy wszystkie zainteresowane instytucje kulturalne z Polski i zagranicy.
-        - Uważamy, że potencjał zmiany, jaki niesie ze sobą kultura, jest niedoceniany, a rozwiązania systemowe stosowane są niewystarczające.
-        - Wydarzenia kulturalne są niewłaściwie promowane albo nie są promowane w ogóle, przez co ich odbiór społeczny jest ograniczony.
-        - Wyznajemy zasadę, że pieniędzy w kulturze nie brakuje – są one po prostu źle dystrybuowane.
-        - Gdyby chcieli Państwo zacząć to zmieniać, zapraszamy: czekają na Państwa specjaliści Public i Media Relations, artyści (dyrygenci, śpiewacy, aktorzy, fotograficy) i profesjonaliści od lat zarządzające sferą kultury i sztuki.
-        - <a href="#">Napisz do nas.</a>
+        - We cordially invite cultural institutions from Poland and abroad to cooperation.
+        - We think the change capability which culture brings to us is underestimated, while system solutions are not sufficient.
+        - Events are promoted improperly or are not promoted at all which limits the public attendance.
+        - We believe that there is enough money for culture, but there is not enough common sense in spending it.
+        - If you want to change it let’s start: you will work with PR and media relations specialists, artists (conductors, singers, actors, photographers) and professionals in culture and art management.
+        - <a href="#">Contact us.</a>
 
 
 links:
   title: Linki
   sections:
-    - title: Stowarzyszenie im. Richarda Straussa dziękuje za wsparcie partnerom i przyjaciołom
+    - title: We would like to thank our friends and partners for support:
       links:
         - desc: ""
           link: http://www.maestro.net.pl
@@ -66,3 +67,17 @@ links:
           link: http://www.narodni-divadlo.cz
         - desc: ""
           link: http://www.opera.hu
+    
+    - title: More on Richard Strauss
+      links:
+        - desc: "Richard Strauss online: http://richardstrauss.org"
+          link: http://richardstrauss.org
+        - desc: "Richard Strauss Institute – Germany: http://www.richard-strauss-institut.de"
+          link: http://www.richard-strauss-institut.de
+        - desc: "Richard Strauss Festival: http://www.richard-strauss-festival.de/rsi"
+          link: http://www.richard-strauss-festival.de/rsi
+        - desc: "Richard Strauss Society – United Kingdom: http://www.richard-strauss-society.co.uk"
+          link: http://www.richard-strauss-society.co.uk
+        - desc: "Audio and video: http://www.medici.tv/#!/richard-strauss"
+          link: http://www.medici.tv/#!/richard-strauss
+          
