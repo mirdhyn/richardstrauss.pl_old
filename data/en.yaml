@@ -8,7 +8,15 @@ news:
   title: Info
   articles:
 
-  - title: Stowarzyszenie w Budapeszcie
+- title: 'Elektra' at the Met and in Teatr Studio
+    date: 30/03/2016
+    picture: picture.jpg
+    content:
+      - We are glad to invite you to Teatr Studio in Warszawa to watch the last transmission of the Met HD season 2015/2016. 
+      - It will be ‘Elektra’ which is scheduled to be prefaced with a special lecture written by the members of our Society. 
+      - The event takes place in April, 30. 
+
+  - title: The Society in Budapest
     date: 25/05/2015
     picture: picture.jpg
     content:
@@ -19,12 +27,13 @@ news:
       - W zeszłym roku Opera w Budapeszcie uczciła 150. rocznicę urodzin Richarda Straussa: podczas 18 dni festiwalu wystawiła sześć jego oper i zagrała koncert symfoniczny. W przyszłym roku obchodzić będzie 400. rocznicę śmierci Williama Szekspira – instytucja wystawi opery i balet oparte na sztukach poety, zagra także koncert okolicznościowy.
       - W Budapeszcie Stowarzyszenie im. Richarda Straussa uczestniczyło również we wspomnianych zeszłorocznych obchodach święta swojego patrona.
 
-  - title: W czeskich mediach
+  - title: About us in Czech media
     date: 22/12/2014
     picture: czeskich.jpg
     content:
       - W grudniowym (2014) numerze prestiżowego czeskiego magazynu „Hudební Rozhledy” znalazła się informacja o działalności Stowarzyszenia im. Richarda Straussa.
       - Członkowie Stowarzyszenia współpracują z dziennikarzami znad Wełtawy już wiele lat – dzięki naszej działalności w najważniejszych czeskich mediach ukazały się wywiady z polskimi artystami, informacje o ważnych dla kultury polskiej wydarzeniach i recenzje premier operowych.
+
 
 
 about:
