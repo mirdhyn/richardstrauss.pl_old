@@ -7,6 +7,19 @@ home:
 news:
   title: Info
   articles:
+  
+  - title: "Elektra" w Met i Teatrze Studio
+    date: 30/03/2016
+    picture: picture.jpg
+    content:
+      - 30 kwietnia w warszawskim Teatrze Studio obejrzeć będzie można spektakl „Elektry” transmitowany na żywo z Metropolitan Opera w Nowym Jorku. 
+      - Przed przedstawieniem publiczność wysłucha prelekcji wprowadzającej do tej niezwykłej opery Richarda Straussa przygotowanej przez członków naszego Stowarzyszenia. 
+      - Serdecznie zapraszamy.
+
+  - title: W czeskich mediach
+    date: 22/12/2014
+    picture: czeskich.jpg
+    content:
 
   - title: Stowarzyszenie w Budapeszcie
     date: 25/05/2015
